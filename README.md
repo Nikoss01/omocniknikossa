@@ -1,1 +1,1 @@
-# omocniknikossa
+# pomocniknikossa
